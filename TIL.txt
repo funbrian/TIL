@@ -1,0 +1,5 @@
+# 2.25.2020
+# TIL how to make a repository in github and upload code from terminal
+
+# 2.26.2020
+# TIL about modules and including them in classes rather than inheritance from one class to another
