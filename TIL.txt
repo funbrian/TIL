@@ -3,3 +3,6 @@
 
 # 2.26.2020
 # TIL about modules and including them in classes rather than inheritance from one class to another
+
+# 2.27.2020
+# TIL about API's HTTP responses and extracting information from a hash/array (response.parse) 
