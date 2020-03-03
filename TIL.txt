@@ -6,3 +6,9 @@
 
 # 2.27.2020
 # TIL about API's HTTP responses and extracting information from a hash/array (response.parse) 
+
+# 3.1.2020
+# TIL how to install a gem through terminal (we set up Rails and it was definitely a difficult process but we made it!!)
+
+# 3.2.2020
+# TIL how to make an app and a model in terminal, and how to use rails console to add to the app
