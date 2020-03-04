@@ -12,3 +12,6 @@
 
 # 3.2.2020
 # TIL how to make an app and a model in terminal, and how to use rails console to add to the app
+
+# 3.3.2020
+# TIL we learned a bit more about using rails db:migrate 
