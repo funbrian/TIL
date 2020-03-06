@@ -15,3 +15,9 @@
 
 # 3.3.2020
 # TIL we learned a bit more about using rails db:migrate 
+
+# 3.4.2020
+# TIL we learned about different types of requests in insomnia, including post and patch
+
+# 3.5.2020
+# Today we went over a hacking exercise that required digging within the routes file of a given app.  It was a lot of fun to figure out!
